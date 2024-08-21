@@ -9,3 +9,6 @@ Absolute beginners looking to understand the basics of algorithms through intera
 Educators seeking supplementary materials for their computer science classes.
 
 [Flowchart.pdf](https://github.com/user-attachments/files/16692750/Flowchart.pdf)
+
+![Screen Shot 1403-05-31 at 17 46 43](https://github.com/user-attachments/assets/106b6340-6e31-40e8-8264-6666f670cb06)
+
